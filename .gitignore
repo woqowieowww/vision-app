@@ -1,0 +1,21 @@
+# Visual Studio / .NET
+.vs/
+.vscode/
+[Oo]bj/
+packages/
+*.user
+*.suo
+
+# bin/: из него нужен только Exercises.xml (подключён в .csproj как Content)
+KursProjDemo/bin/*
+!KursProjDemo/bin/Debug/
+KursProjDemo/bin/Debug/*
+!KursProjDemo/bin/Debug/Exercises.xml
+
+# Данные, создаваемые приложением при работе
+*.db
+*.log
+
+# ОС
+.DS_Store
+Thumbs.db

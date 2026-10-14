@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExercise>
+	<Exercise>
+		<Name>Пальминг</Name>
+		<Description>Согрейте ладони, потерев их друг о друга, пока не почувствуете тепло. Прикройте глаза ладонями, чтобы не пропускать свет. Расслабьтесь и дышите ровно в течение 2 минут.</Description>
+		<Image>palming.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Метка на стекле</Name>
+		<Description>Нанесите небольшую метку (крест или точку) на стекло или экран. Расположитесь на расстоянии 30-40 см от метки. Фокусируйтесь на ней в течение 1 минуты, избегая моргания.</Description>
+		<Image>marks.png</Image>
+		<Duration>60</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Цветовые круги</Name>
+		<Description>Приготовьте 5 кругов разных цветов на белом фоне. Фокусируйтесь на каждом круге по 10 секунд, переходя от одного к другому по порядку. Повторяйте цикл до окончания времени.</Description>
+		<Image>color_circles.png</Image>
+		<Duration>180</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Горизонтальные движения</Name>
+		<Description>Сядьте прямо, взгляд направлен вперед. Медленно двигайте глазами слева направо и обратно, как будто читаете строку текста. Повторяйте в течение 1 минуты.</Description>
+		<Image>horizontal_eye_movement.png</Image>
+		<Duration>60</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Вертикальные движения</Name>
+		<Description>Смотрите вверх, затем вниз, медленно переводя взгляд. Движения должны быть плавными, без резких скачков. Продолжайте упражнение 1 минуту.</Description>
+		<Image>vertical_eye_movement.png</Image>
+		<Duration>60</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Фокусировка на пальце</Name>
+		<Description>Вытяните руку вперед и сфокусируйтесь на кончике указательного пальца. Медленно приближайте палец к лицу на расстояние 10-15 см, затем отводите обратно. Повторяйте в течение 2 минут.</Description>
+		<Image>finger_focus.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Солнечные зайчики</Name>
+		<Description>Используйте отражение солнечного света от зеркала или стекла. Следите взглядом за движущимся зайчиком в течение 1 минуты.</Description>
+		<Image>sun_reflection.png</Image>
+		<Duration>60</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Моргание</Name>
+		<Description>Закройте глаза на 2 секунды, затем откройте и быстро моргните 10 раз. Повторяйте цикл в течение 30 секунд. </Description>
+		<Image>blinking.png</Image>
+		<Duration>30</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Вращение глазами</Name>
+		<Description>Смотрите вверх, затем плавно ведите взгляд по кругу: вправо → вниз → влево → вверх. Повторите 10 раз в каждую сторону. </Description>
+		<Image>eye_rotation.png</Image>
+		<Duration>60</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Просмотр вдаль</Name>
+		<Description>Сядьте у окна и фокусируйтесь на объектах за 5-10 метров от вас (деревья, здания). Сменяйте точки фокуса каждые 10-15 секунд.</Description>
+		<Image>view_distance.png</Image>
+		<Duration>300</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Массаж век</Name>
+		<Description>Аккуратно массажируйте закрытые веки подушечками пальцев. Делайте круговые движения по часовой стрелке 1 минуту, затем против часовой стрелки еще 1 минуту.</Description>
+		<Image>eyelid_massage.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Диагональные движения</Name>
+		<Description>Сфокусируйтесь на верхнем левом углу экрана/комнаты. Медленно переведите взгляд к нижнему правому углу, затем обратно.</Description>
+		<Image>diagonal_movement.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Фокусировка на сетке</Name>
+		<Description>Используйте сетку из 25 точек (5x5). Фокусируйтесь на центральной точке 10 секунд, затем поочередно переводите взгляд на соседние точки.</Description>
+		<Image>grid_focus.png</Image>
+		<Duration>90</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Смена фокуса</Name>
+		<Description>Расположите ближний объект (книгу) на расстоянии 20 см и дальний (окно) — на 3 метра. Переключайте взгляд между ними каждые 15 секунд. </Description>
+		<Image>focus_switch.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+	<Exercise>
+		<Name>Световые контрасты</Name>
+		<Description>Приготовьте два контрастных объекта: светлый (белый лист) и темный (черный квадрат). Смотрите на светлый объект 10 секунд, затем на темный 10 секунд.</Description>
+		<Image>light_contrast.png</Image>
+		<Duration>120</Duration>
+	</Exercise>
+</ArrayOfExercise>
